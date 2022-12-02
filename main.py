@@ -6,4 +6,4 @@ for i, s in enumerate(line):
 if cnt == 0:
     print("Нема цифор")
 else:
-    print("", cnt)
+    print("", "от стока цифор", cnt)
